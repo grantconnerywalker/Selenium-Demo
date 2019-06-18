@@ -47,19 +47,19 @@ public class MakeMyTripTest extends SeleniumTest{
 
     @Test
     public void makeMyTripTest() {
-        //Step 0: navigate to page
+        // Step 0: navigate to page
         driver.get("https://www.makemytrip.com/");
 
         // Step 1: Enter search criteria into web page
         driver.findElement(By.cssSelector(".searchCity")).click();
         driver.findElement(By.cssSelector(".react-autosuggest__input")).sendKeys("Newark");
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//p[text()=\"Newark, United States\"]")).click();
+        driver.findElement(By.xpath("//p[text()='Newark, United States']")).click();
 
         driver.findElement(By.cssSelector(".searchToCity")).click();
         driver.findElement(By.cssSelector(".react-autosuggest__input")).sendKeys("Los Angeles");
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//p[text()=\"Los Angeles, United States\"]")).click();
+        driver.findElement(By.xpath("//p[text()='Los Angeles, United States']")).click();
 
         driver.findElement(By.cssSelector(".DayPicker-NavButton--next")).click();
         driver.findElement(By.cssSelector(".DayPicker-Month:nth-child(2) .DayPicker-Week:nth-child(2) > .DayPicker-Day:nth-child(7) > .dateInnerCell")).click();

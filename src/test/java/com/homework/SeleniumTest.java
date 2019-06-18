@@ -1,5 +1,6 @@
 package com.homework;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -12,6 +13,7 @@ import java.util.concurrent.TimeUnit;
 // A class for functionality that should be available to each test
 public class SeleniumTest {
     WebDriver driver;
+    String openLinkNewTab = Keys.chord(Keys.CONTROL, Keys.RETURN);
 
     @BeforeTest
     public void setup() {

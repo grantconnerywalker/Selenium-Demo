@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9149c1e2-6ca2-42a7-8c86-8aa41384a744" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/homework/GlobalSQATest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/homework/GlobalSQATest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/homework/MakeMyTripTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/homework/MakeMyTripTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/homework/RediffTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/homework/RediffTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+            <state relative-caret-position="238">
+              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,10 +55,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="575">
+              <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1246#1254#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="71" />
+            <state relative-caret-position="603">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,8 +95,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/homework/GlobalSQATest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java" />
       </list>
     </option>
@@ -114,8 +113,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1304" />
-    <option name="width" value="1263" />
+    <option name="x" value="1429" />
+    <option name="width" value="1138" />
     <option name="height" value="1447" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -317,39 +316,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 01m 01s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 06m 10s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 01m 13s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 07m 56s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 01m 30s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 12m 59s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 03m 53s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 14m 15s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 06m 57s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 18m 04s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 09m 05s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 21m 35s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 09m 33s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 30m 48s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 13m 50s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 33m 48s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 18m 25s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 36m 21s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 20m 02s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
+    <history-entry file="RediffTest_rediffTest - 2019.06.18 at 16h 37m 04s.xml">
+      <configuration name="RediffTest.rediffTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1304" y="0" width="1263" height="1447" extended-state="0" />
+    <frame x="1429" y="0" width="1138" height="1447" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -357,7 +356,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17955112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20037106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.21765602" />
@@ -412,16 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -436,10 +425,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="71" />
+        <state relative-caret-position="603">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -448,10 +447,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        <state relative-caret-position="575">
+          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1246#1254#0" expanded="true" />
           </folding>
         </state>
       </provider>
