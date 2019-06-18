@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9149c1e2-6ca2-42a7-8c86-8aa41384a744" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/GlobalSQA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/MakeMyTrip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/Rediff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/homework/GlobalSQATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/homework/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/homework/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/homework/GlobalSQATest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/homework/GlobalSQATest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/homework/MakeMyTripTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/homework/MakeMyTripTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/homework/RediffTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/homework/RediffTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,39 +42,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="103" selection-start-line="15" selection-start-column="103" selection-end-line="15" selection-end-column="103" />
+            <state relative-caret-position="561">
+              <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/GlobalSQATest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="391">
+              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,9 +95,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/homework/GlobalSQATest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java" />
       </list>
     </option>
   </component>
@@ -209,53 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MakeMyTripTest.exampleTest">
-    <configuration name="MakeMyTripTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.homework" />
-      <option name="MAIN_CLASS_NAME" value="com.homework.MakeMyTripTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RediffTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.homework" />
-      <option name="MAIN_CLASS_NAME" value="com.homework.RediffTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RediffTest.exampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.homework" />
-      <option name="MAIN_CLASS_NAME" value="com.homework.RediffTest" />
-      <option name="METHOD_NAME" value="exampleTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.RediffTest.rediffTest">
     <configuration name="MakeMyTripTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTest" />
       <extension name="coverage">
@@ -291,13 +239,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MakeMyTripTest.makeMyTripTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.homework.MakeMyTripTest" />
+      <option name="METHOD_NAME" value="makeMyTripTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RediffTest.exampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.homework.RediffTest" />
+      <option name="METHOD_NAME" value="exampleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RediffTest.rediffTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.homework.RediffTest" />
+      <option name="METHOD_NAME" value="rediffTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RediffTest.rediffTest" />
+        <item itemvalue="TestNG.MakeMyTripTest.makeMyTripTest" />
         <item itemvalue="TestNG.MakeMyTripTest.exampleTest" />
+        <item itemvalue="TestNG.RediffTest.exampleTest" />
         <item itemvalue="TestNG.MakeMyTripTest" />
-        <item itemvalue="JUnit.MakeMyTripTest" />
-        <item itemvalue="JUnit.RediffTest" />
-        <item itemvalue="JUnit.RediffTest.exampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -315,35 +317,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 12h 46m 19s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="JUnit" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 01m 01s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 12h 46m 36s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="JUnit" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 01m 13s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 12h 47m 14s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="JUnit" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 01m 30s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 12h 49m 36s.xml">
-      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="JUnit" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 03m 53s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RediffTest_exampleTest - 2019.06.18 at 12h 55m 45s.xml">
-      <configuration name="RediffTest.exampleTest" configurationId="JUnit" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 06m 57s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RediffTest - 2019.06.18 at 12h 56m 31s.xml">
-      <configuration name="RediffTest" configurationId="JUnit" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 09m 05s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest - 2019.06.18 at 12h 57m 29s.xml">
-      <configuration name="MakeMyTripTest" configurationId="JUnit" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 09m 33s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest - 2019.06.18 at 12h 57m 57s.xml">
-      <configuration name="MakeMyTripTest" configurationId="JUnit" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 13m 50s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest - 2019.06.18 at 13h 01m 31s.xml">
-      <configuration name="MakeMyTripTest" configurationId="TestNG" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 18m 25s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MakeMyTripTest_exampleTest - 2019.06.18 at 13h 01m 41s.xml">
-      <configuration name="MakeMyTripTest.exampleTest" configurationId="TestNG" />
+    <history-entry file="MakeMyTripTest_makeMyTripTest - 2019.06.18 at 15h 20m 02s.xml">
+      <configuration name="MakeMyTripTest.makeMyTripTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -370,7 +372,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.14796342" />
+      <window_info anchor="right" id="Maven" weight="0.14796342" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -383,13 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/MakeMyTrip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -407,25 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/GlobalSQATest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -436,14 +412,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/SeleniumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="103" selection-start-line="15" selection-start-column="103" selection-end-line="15" selection-end-column="103" />
+        <state relative-caret-position="561">
+          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/MakeMyTrip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/MakeMyTripTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/homework/RediffTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
