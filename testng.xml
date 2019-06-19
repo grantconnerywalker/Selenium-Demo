@@ -1,8 +1,9 @@
 <!DOCTYPE suite SYSTEM "http://testnmg.org/testng-1.0.dtd" >
-<suite name="SampleSuite">
+<suite name="SampleSuite" thread-count="2" parallel="methods">
     <test name="SampleTest">
         <classes>
-            <class name="com.homework.MakeMyTripTest" />
+            <class name="com.homework.RediffTest" />
+            <class name="com.homework.GlobalSQATest" />
         </classes>
     </test>
 </suite>

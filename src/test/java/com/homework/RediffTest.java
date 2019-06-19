@@ -13,9 +13,12 @@ import java.util.concurrent.TimeUnit;
 
 public class RediffTest extends SeleniumTest {
 
-
     @Test
     public void rediffTest() {
+        System.setProperty("webdriver.chrome.driver", "D:\\Users\\Pills\\seleniumDrivers\\chromedriver.exe");
+        driver = new ChromeDriver();
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         // Step 0: navigate to page
         driver.get("https://www.rediff.com/");
 

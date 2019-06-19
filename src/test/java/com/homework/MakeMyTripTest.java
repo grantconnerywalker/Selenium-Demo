@@ -53,12 +53,12 @@ public class MakeMyTripTest extends SeleniumTest{
         // Step 1: Enter search criteria into web page
         driver.findElement(By.cssSelector(".searchCity")).click();
         driver.findElement(By.cssSelector(".react-autosuggest__input")).sendKeys("Newark");
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        sleep(1);
         driver.findElement(By.xpath("//p[text()='Newark, United States']")).click();
 
         driver.findElement(By.cssSelector(".searchToCity")).click();
         driver.findElement(By.cssSelector(".react-autosuggest__input")).sendKeys("Los Angeles");
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        sleep(1);
         driver.findElement(By.xpath("//p[text()='Los Angeles, United States']")).click();
 
         driver.findElement(By.cssSelector(".DayPicker-NavButton--next")).click();
@@ -70,7 +70,6 @@ public class MakeMyTripTest extends SeleniumTest{
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 
         Assert.assertTrue(driver.findElement(By.id("left-side--wrapper")).isDisplayed());
-        sleep(5);
 
 //        driver.findElement(By.cssSelector("#fli_list_item0 > div:nth-child(2) .dept-options-section")).click();
 //        driver.findElement(By.id("section--wrapper")).click();
